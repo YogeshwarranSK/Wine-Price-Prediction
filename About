@@ -1,0 +1,3 @@
+This is a wine quality prediction using Random Forest Classifier Algorithm ( Supervised Learning ) . 
+It is used to detect the quality of the wine when few parameters are given as input to the trained model . 
+If the quality of wine is greater than 7 it is GOOD WINE else it is BAD WINE
